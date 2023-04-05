@@ -4,7 +4,6 @@ from dateutil import parser
 from pprint import pprint
 
 
-
 class Queries():
 
     # Function to insert any new records into data we imported
